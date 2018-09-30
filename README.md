@@ -1,1 +1,1 @@
-### Usage: ./commit
+### Usage: ./commit.py
